@@ -1,0 +1,8 @@
+pmk_air_liur
+pmk_gusi
+pmk_kaki
+pmk_lidah
+sehat_air_liur
+sehat_gusi
+sehat_kaki
+sehat_lidah
